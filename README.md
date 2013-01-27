@@ -23,7 +23,8 @@ thor favicon:tomato SIZE   # create plasma:tomato favicon.ico, SIZExSIZE, inside
 ```
 thor favicon:fractal 100
 ```
-![fractal favicon](https://github.com/wbzyl/favicon-generators/blob/master/public/favicon-fractal.png)
+![fractal favicon](https://raw.github.com/wbzyl/favicon-generators/master/public/favicon-fractal.png)
+
 
 ```
 thor favicon:hues 100
