@@ -29,10 +29,13 @@ thor favicon:fractal 100
 ```
 thor favicon:hues 100
 ```
+![fractal favicon](https://raw.github.com/wbzyl/favicon-generators/master/public/favicon-hues.png)
 
 ```
 thor favicon:tomato 100
 ```
+![fractal favicon](https://raw.github.com/wbzyl/favicon-generators/master/public/favicon-tomato.png)
+
 
 ## License
 
